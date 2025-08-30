@@ -26,18 +26,18 @@ By integrating "Snowflake" for data handling and "AWS SageMake AI" for machine l
 ---
 
 ## ⚙️ Technical Workflow
--1.Introduction to Snowflake: Understanding the Snowflake platform and its application in data analytics.
--2.Exploratory Data Analysis (EDA) in Snowflake: Performing initial data exploration within Snowflake.
--3.Feature Engineering in Snowflake: Enhancing data for model building.
--4.AWS Sagemaker Setup: Configuring the AWS Sagemaker environment for model development.
--5.Data Fetching: Using snowflake-connector-python and snowflake-sqlalchemy for data extraction.
--6.Data Preprocessing: Preparing data for modeling.
--7.Feature Selection: Choosing relevant features for the model.
--8.Model Building: Developing models like Linear Regression, Random Forest Regression, and XGBoost Regression.
--9.Model Predictions: Generating and analyzing predictions.
--10.Inserting Predictions in Snowflake: Storing model outputs back into Snowflake.
--11.Scoring Function Deployment and Scheduling: Automating the model scoring process.
--12.Sending Status Emails: Setting up notifications regarding the process status.
+- 1.Introduction to Snowflake: Understanding the Snowflake platform and its application in data analytics.
+- 2.Exploratory Data Analysis (EDA) in Snowflake: Performing initial data exploration within Snowflake.
+- 3.Feature Engineering in Snowflake: Enhancing data for model building.
+- 4.AWS Sagemaker Setup: Configuring the AWS Sagemaker environment for model development.
+- 5.Data Fetching: Using snowflake-connector-python and snowflake-sqlalchemy for data extraction.
+- 6.Data Preprocessing: Preparing data for modeling.
+- 7.Feature Selection: Choosing relevant features for the model.
+- 8.Model Building: Developing models like Linear Regression, Random Forest Regression, and XGBoost Regression.
+- 9.Model Predictions: Generating and analyzing predictions.
+- 10.Inserting Predictions in Snowflake: Storing model outputs back into Snowflake.
+- 11.Scoring Function Deployment and Scheduling: Automating the model scoring process.
+- 12.Sending Status Emails: Setting up notifications regarding the process status.
 
 ---
 
