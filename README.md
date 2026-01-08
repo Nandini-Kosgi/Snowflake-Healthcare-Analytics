@@ -95,5 +95,3 @@ End-to-End-Snowflake-Healthcare-Analytics-Project-on-AWS/
 
 ## Author
 Nandini Kosgi
-Linkedin: https://www.linkedin.com/in/nandinikosgi/
-
